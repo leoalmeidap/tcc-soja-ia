@@ -1,0 +1,10 @@
+# TensorFlow: versão registrada na execução original.
+# Demais versões históricas não confirmadas.
+tensorflow==2.20.0
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+opencv-python
+openpyxl
