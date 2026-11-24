@@ -1,6 +1,6 @@
 # TCC Soja IA
 
-Classificação de ferrugem asiática e mancha-alvo em folhas de soja por rede neural convolucional: estimativa exploratória de severidade.
+Classificação de ferrugem asiática e mancha-alvo em imagens de folhas de soja por rede neural convolucional.
 
 Leonardo de Almeida Pereira — Engenharia Agronômica, Universidade de Sorocaba (UNISO), 2026. Orientadora: Kelen Cristiane Cardoso.
 
